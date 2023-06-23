@@ -1,2 +1,2 @@
 # project-02
-responsive multipage website
+Amazon Clone Website
